@@ -23,8 +23,8 @@
     <a href="https://www.instagram.com/exploriade">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ="Instagram"/>
       </a>
-    <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
-        <img src="https://img.shields.io/badge/Gmail-c2d8ff?style=for-the-badge&logo=gmail&logoColor=white"="abrahtay@Gmail.com"/>
+   <a href="mailto:abrahtay@gmail.com"><img src="https://img.shields.io/badge/Gmail-c2d8ff?style=for-the-badge&logo=gmail&logoColor=white"="abrahtay@Gmail.com"/></a>
+       <img src="#"="abrahtay@Gmail.com"/> 
     </a>
     <a href="https://abrahamat.wordpress.com/travel-ausflug/">
         <img src="https://img.shields.io/badge/Wordpress-D2596BE?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress"/>
