@@ -8,8 +8,8 @@
                       <h1>Some of  my profound programming skills:</h1>
      <a href="https://github.com/Pybraham/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
     <a href="https://github.com/Pybraham/BMI-calculator-Python"><img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=ED8B00" alt="Python"/></a>
-    <a href="https://github.com/Pybraham/onlineshop"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
-    <a href="https://github.com/Pybraham/onlineshop"><img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt ="JavaScript"/></a>
+    <a href="https://github.com/Pybraham/weatherforcast"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+    <a href="https://github.com/Pybraham/hourly-weather-forcast-javascript-HTML"><img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt ="JavaScript"/></a>
     <a href="https://github.com/Pybraham/onlineshop"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
     <a href="https://github.com/Pybraham/petrolcalculator-in-PHP"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
     <a href="https://github.com/Pybraham/onlineshop"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
